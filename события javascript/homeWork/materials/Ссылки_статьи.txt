@@ -1,0 +1,2 @@
+Основы работы с событиями - http://learn.javascript.ru/events-and-interfaces
+События в деталях - http://learn.javascript.ru/event-details
